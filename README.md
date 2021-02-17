@@ -26,6 +26,6 @@ Please read all three steps before starting each Part and plan your code accordi
 1. Add all of the teammates data into the `data.js` file. Each team member should have their first and last name, role in the course, and prefered language.
 2. Create a new JavaScript file for you to write your code in
 3. Import both the data from the provided `data.js` file and the new javafile you created into the HTML page
-4. Using your newly created file, convert each entry in the data variable in `data.js` into an object
+4. Using your newly created JavaScript file, convert each entry in the data variable in `data.js` into an object
 
 ***Happy Hacking!***
